@@ -1,4 +1,5 @@
- [
+{
+  "curso": [
     {
       "id": "2w1",
       "title": "Curso Tarde",
@@ -10,3 +11,4 @@
       "q_alumnos": 46
     }
   ]
+}
